@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+flatfull.com	TRUE	/wp/musik/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+flatfull.com	TRUE	/	FALSE	1999999999	PHPSESSID	6f4aavk28slgnkufebmfuetaf6
+
